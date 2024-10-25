@@ -1,4 +1,4 @@
-var day = 5;
+var day = 35;
 let countdown;
 
 var audio = $('audio')[0];
